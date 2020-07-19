@@ -1,3 +1,15 @@
+# Customized Version of Marlin for upgraded Ender 3 Pro
+
+## Upgrades/Customizations:
+- BlTouch
+  - Updated with quicker travel speeds
+  - 5x5 probe grid
+- SKR Mini 1.3 512k with USB support
+- Sped up homing moves
+- Linear Advance enabled
+
+## Terminal Build Intructions can be found in BuildGuide.md
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
